@@ -35,7 +35,7 @@ This project is a clone of the CodingShuttle website, inspired by the teachings 
 4. Explore the course details, testimonials, alumni placements, and other features of the website.
 
 ## Deployed Project:
-Check out the deployed version of the project [here](http://hackthon.me/coding-shuttle-clone/).
+Check out the deployed version of the project [here](https://coding-shuttle.netlify.app/).
 
 ## Credits:
 - CodingShuttle for the original design and content.
